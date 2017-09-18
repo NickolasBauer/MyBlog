@@ -1,0 +1,53 @@
+html {
+ margin: 0;
+    padding: 0;
+}
+
+body{
+    
+    font-family: cursive;
+    font-size: 13pt;
+    background-color: #95B6E5;
+     margin: 0;
+    padding: 0;
+}
+
+h1{
+    
+    font-size: 15pt;
+    color: #9C93FF;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+
+h1 span {
+    border: 4px dashed #64B6E5;
+    padding: 10px;
+}
+
+p{
+    padding: 0;
+    margin: 0;
+}
+
+.section
+{
+    background-color: #ffffff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    
+}
+
+.right_section{
+    font-size: 8pt;
+    text-align: right;
+    margin-top: 10px;
+}
+
+
+
+
+
+
